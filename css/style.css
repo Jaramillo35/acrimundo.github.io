@@ -9585,7 +9585,7 @@ header .navbar {
 
 @media (max-width: 1199.98px) {
   header .navbar {
-    background: black !important;
+    background: #633b81 !important;
     padding-top: .5rem;
     padding-bottom: .5rem;
   }
